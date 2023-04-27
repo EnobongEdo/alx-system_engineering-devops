@@ -1,1 +1,1 @@
-This task is about Loops Condition and Parsing
+This README file is about loops and parsing 0x04
