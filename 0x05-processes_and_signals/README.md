@@ -1,1 +1,1 @@
-0x05-processes_and_signals
+This Project contains information and examples on how to use processes and signals in bash.
