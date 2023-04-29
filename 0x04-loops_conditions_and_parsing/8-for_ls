@@ -4,9 +4,9 @@
 
 for f in *
 do
-	if [[ -f $file && $file != .* && $file =~ ^[^-]*- ]]
+	if [[ -f $f && $f != .* && $ =~ ^[^-]*- ]]
 	then
-		 echo "${file#*-}"
+		 echo "${f#*-}"
 	fi
 done
 
