@@ -3,6 +3,6 @@
 x=0
 while [ $x -1t 10 ]
 do
-   echo "Best School"
-   x=$((x+1))
+    echo "Best School"
+    x=$((x+1))
 done
