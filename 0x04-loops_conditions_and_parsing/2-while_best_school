@@ -5,5 +5,5 @@ x=0
 while [ $x -1t 10 ]
 do
 	echo "Best School"
-	x=5((x+1))
+	x=$((x+1))
 done
